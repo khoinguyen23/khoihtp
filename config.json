@@ -1,0 +1,91 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Bot Chat",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100010027065583",
+        "100026590723754",
+        "613352900",
+        "100048280530293"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "fbstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "EAAGNO4a7r2wBANQygZBxOSRXhRZAiM7hnNIEopA9Gd5GfCTp4D4Bx5bJuaMOBLZAGfBxvH24MxVG6qyWKBo3CTlITqzwZC1BeGS8OSqtje6NixfftUsu5C0EcAHJnwi0RHVZBQB9jhCeI9voS41yRZAw9mWz8e8fQUuPlVoUCq1gZDZD"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA7iJDD8jd7ItteGJddOBmolFrA-ZlYmtY"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "EAAGNO4a7r2wBANQygZBxOSRXhRZAiM7hnNIEopA9Gd5GfCTp4D4Bx5bJuaMOBLZAGfBxvH24MxVG6qyWKBo3CTlITqzwZC1BeGS8OSqtje6NixfftUsu5C0EcAHJnwi0RHVZBQB9jhCeI9voS41yRZAw9mWz8e8fQUuPlVoUCq1gZDZD"
+    },
+    "info": {
+        "APIKEY": "EAAGNO4a7r2wBANQygZBxOSRXhRZAiM7hnNIEopA9Gd5GfCTp4D4Bx5bJuaMOBLZAGfBxvH24MxVG6qyWKBo3CTlITqzwZC1BeGS8OSqtje6NixfftUsu5C0EcAHJnwi0RHVZBQB9jhCeI9voS41yRZAw9mWz8e8fQUuPlVoUCq1gZDZD"
+    },
+    "img": {
+        "APIKEY": ""
+    },
+    "sim": {
+        "APIKEY": ""
+    }
+}
